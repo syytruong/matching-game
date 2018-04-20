@@ -102,8 +102,8 @@
  frag += '<div class="card" data-id="'+ v.id +'"><div class="inside">\
  <div class="front"><img src="'+ v.img +'"\
  alt="'+ v.name +'" /></div>\
- <div class="back"><img src="http://www.laivanduc.com/wp-content/uploads/2015/08/Logo-laivanducblog.png"\
- alt="laivanduc" /></div></div>\
+ <div class="back"><img src="https://i.pinimg.com/originals/fc/99/d8/fc99d804e6acaaf0a4bc32d6fdda6325.png"\
+ alt="backcard" /></div></div>\
  </div>';
  });
  return frag;
